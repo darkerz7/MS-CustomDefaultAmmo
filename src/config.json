@@ -1,0 +1,174 @@
+{
+  "Weapons": [
+    {
+      "Name": "weapon_deagle",
+      "Clip": 20,
+      "ReserveAmmo": 9999
+    },
+	{
+      "Name": "weapon_elite",
+      "Clip": 60,
+      "ReserveAmmo": 9999
+    },
+	{
+      "Name": "weapon_fiveseven",
+      "Clip": 40,
+      "ReserveAmmo": 9999
+    },
+	{
+      "Name": "weapon_glock",
+      "Clip": 40,
+      "ReserveAmmo": 9999
+    },
+	{
+      "Name": "weapon_ak47",
+      "Clip": 30,
+      "ReserveAmmo": 9999
+    },
+	{
+      "Name": "weapon_aug",
+      "Clip": 30,
+      "ReserveAmmo": 9999
+    },
+	{
+      "Name": "weapon_awp",
+      "Clip": 10,
+      "ReserveAmmo": 9999
+    },
+	{
+      "Name": "weapon_famas",
+      "Clip": 25,
+      "ReserveAmmo": 9999
+    },
+	{
+      "Name": "weapon_g3sg1",
+      "Clip": 30,
+      "ReserveAmmo": 9999
+    },
+	{
+      "Name": "weapon_galilar",
+      "Clip": 35,
+      "ReserveAmmo": 9999
+    },
+	{
+      "Name": "weapon_m249",
+      "Clip": 100,
+      "ReserveAmmo": 9999
+    },
+	{
+      "Name": "weapon_m4a1",
+      "Clip": 20,
+      "ReserveAmmo": 9999
+    },
+	{
+      "Name": "weapon_mac10",
+      "Clip": 30,
+      "ReserveAmmo": 9999
+    },
+	{
+      "Name": "weapon_p90",
+      "Clip": 50,
+      "ReserveAmmo": 9999
+    },
+	{
+      "Name": "weapon_mp5sd",
+      "Clip": 30,
+      "ReserveAmmo": 9999
+    },
+	{
+      "Name": "weapon_ump45",
+      "Clip": 30,
+      "ReserveAmmo": 9999
+    },
+	{
+      "Name": "weapon_xm1014",
+      "Clip": 20,
+      "ReserveAmmo": 9999
+    },
+	{
+      "Name": "weapon_bizon",
+      "Clip": 64,
+      "ReserveAmmo": 9999
+    },
+	{
+      "Name": "weapon_mag7",
+      "Clip": 20,
+      "ReserveAmmo": 9999
+    },
+	{
+      "Name": "weapon_negev",
+      "Clip": 150,
+      "ReserveAmmo": 9999
+    },
+	{
+      "Name": "weapon_sawedoff",
+      "Clip": 20,
+      "ReserveAmmo": 9999
+    },
+	{
+      "Name": "weapon_tec9",
+      "Clip": 30,
+      "ReserveAmmo": 9999
+    },
+	{
+      "Name": "weapon_hkp2000",
+      "Clip": 40,
+      "ReserveAmmo": 9999
+    },
+	{
+      "Name": "weapon_mp7",
+      "Clip": 30,
+      "ReserveAmmo": 9999
+    },
+	{
+      "Name": "weapon_mp9",
+      "Clip": 30,
+      "ReserveAmmo": 9999
+    },
+	{
+      "Name": "weapon_nova",
+      "Clip": 20,
+      "ReserveAmmo": 9999
+    },
+	{
+      "Name": "weapon_p250",
+      "Clip": 26,
+      "ReserveAmmo": 9999
+    },
+	{
+      "Name": "weapon_scar20",
+      "Clip": 30,
+      "ReserveAmmo": 9999
+    },
+	{
+      "Name": "weapon_sg556",
+      "Clip": 30,
+      "ReserveAmmo": 9999
+    },
+	{
+      "Name": "weapon_ssg08",
+      "Clip": 20,
+      "ReserveAmmo": 9999
+    },
+	{
+      "Name": "weapon_m4a1_silencer",
+      "Clip": 20,
+      "ReserveAmmo": 9999
+    },
+	{
+      "Name": "weapon_usp_silencer",
+      "Clip": 24,
+      "ReserveAmmo": 9999
+    },
+	{
+      "Name": "weapon_cz75a",
+      "Clip": 30,
+      "ReserveAmmo": 9999
+    },
+	{
+      "Name": "weapon_revolver",
+      "Clip": 30,
+      "ReserveAmmo": 9999
+    }
+  ]
+}
