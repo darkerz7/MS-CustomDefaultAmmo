@@ -45,12 +45,12 @@ namespace MS_CustomDefaultAmmo
                 {
                     if (item.DefIndex != 0 && item.DefIndex == weapon.AttributeContainer.Item.ItemDefinitionIndex)
                     {
-                        if (item.Clip <= -1)
+                        if (item.Clip > -1)
                         {
                             weapon.GetWeaponData().MaxClip = item.Clip;
                             weapon.Clip = item.Clip;
                         }
-                        if (item.ReserveAmmo <= -1)
+                        if (item.ReserveAmmo > -1)
                         {
                             weapon.GetWeaponData().PrimaryReserveAmmoMax = item.ReserveAmmo;
                             weapon.ReserveAmmo = item.ReserveAmmo;
